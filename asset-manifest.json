@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foukaridis/static/css/main.941901bf.css",
+    "main.js": "/foukaridis/static/js/main.066c4202.js",
+    "static/js/453.dd77e2a1.chunk.js": "/foukaridis/static/js/453.dd77e2a1.chunk.js",
+    "index.html": "/foukaridis/index.html",
+    "main.941901bf.css.map": "/foukaridis/static/css/main.941901bf.css.map",
+    "main.066c4202.js.map": "/foukaridis/static/js/main.066c4202.js.map",
+    "453.dd77e2a1.chunk.js.map": "/foukaridis/static/js/453.dd77e2a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.941901bf.css",
+    "static/js/main.066c4202.js"
+  ]
+}
