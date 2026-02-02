@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/foukaridis-site/static/css/main.3a719844.css",
-    "main.js": "/foukaridis-site/static/js/main.12ef9cc7.js",
+    "main.js": "/foukaridis-site/static/js/main.2515d021.js",
     "static/js/453.49c4e057.chunk.js": "/foukaridis-site/static/js/453.49c4e057.chunk.js",
     "index.html": "/foukaridis-site/index.html",
     "main.3a719844.css.map": "/foukaridis-site/static/css/main.3a719844.css.map",
-    "main.12ef9cc7.js.map": "/foukaridis-site/static/js/main.12ef9cc7.js.map",
+    "main.2515d021.js.map": "/foukaridis-site/static/js/main.2515d021.js.map",
     "453.49c4e057.chunk.js.map": "/foukaridis-site/static/js/453.49c4e057.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a719844.css",
-    "static/js/main.12ef9cc7.js"
+    "static/js/main.2515d021.js"
   ]
 }
